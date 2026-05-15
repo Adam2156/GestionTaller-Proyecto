@@ -1,0 +1,20 @@
+{
+  "name": "proyecto-gestion",
+  "version": "1.0.0",
+  "description": "Proyecto de gestion para talleres",
+  "license": "ISC",
+  "author": "Adam El Bakkali",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass src/scss/style.scss dist/style.css --watch"
+  },
+  "dependencies": {
+    "bootstrap": "^4.6.2",
+    "jquery": "^3.7.1",
+    "popper.js": "^1.16.1"
+  },
+  "devDependencies": {
+    "sass": "^1.95.1"
+  }
+}
